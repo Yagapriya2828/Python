@@ -8,7 +8,7 @@ while True:
     if food.lower() == "q":
         break
     else:
-        price = float(input(f"Enter the price of {food}: $"))
+        price = float(input(f"Enter  price of {food}: $"))
         foods.append(food)
         prices.append(price)
 
