@@ -35,6 +35,7 @@ dice_art = {
 }
 
 dice = []
+
 total = 0
 num_of_dice = int(input("How many dice?: "))
 
